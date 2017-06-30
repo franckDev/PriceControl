@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:title="@string/create"
+              android:id="@+id/create">create</item>
+        <item android:title="@string/content"
+              android:id="@+id/content">content</item>
+        <item android:title="@string/liste"
+              android:id="@+id/liste">liste</item>
+        <item android:title="@string/fermer"
+              android:id="@+id/fermer">close</item>
+    </group>
+</menu>

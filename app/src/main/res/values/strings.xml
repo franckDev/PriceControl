@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Price Control</string>
+    <!--Accueil-->
+    <string name="titre">Bienvenue</string>
+    <string name="content">Contenu du ticket</string>
+    <string name="liste">Liste des tickets</string>
+    <string name="fermer">Fermer</string>
+    <!--Création-->
+    <string name="create">Création d\'un ticket</string>
+    <string name="ticket">Nom de votre ticket</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="produit">Produit</string>
+    <string name="prix">Prix</string>
+    <!--Table-->
+    <string name="table">Contenu du ticket</string>
+    <string name="prixT">Prix total :</string>
+    <!--Table Liste-->
+    <string name="tableList">Liste des tickets</string>
+</resources>
